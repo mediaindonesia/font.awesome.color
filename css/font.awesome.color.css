@@ -1,0 +1,34 @@
+/* Set View */
+#previewcolor .fa {
+	font-size: 3em;
+}
+
+/* Twitter */
+
+.fa-twitter:hover {
+	color: #1da1f2;
+}
+
+.fa-twitter-square:hover {
+	color: #1da1f2;
+}
+
+/* Facebook */
+
+.fa-facebook:hover {
+	color: #3b5998;
+}
+
+.fa-facebook-square:hover {
+	color: #3b5998;
+}
+
+/* Google+ */
+
+.fa-google-plus:hover {
+	color: #db4437;
+}
+
+.fa-google-plus-square:hover {
+	color: #db4437;
+}
