@@ -1,4 +1,4 @@
-# font.awesome.color
+# Hover Font Awesome Color
 Lets Coloring Font Awesome with CSS
 
 Hello World!
